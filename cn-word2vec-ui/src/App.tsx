@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>CodeNames Word2Vec UI</h1>
         <Grid />
       </header>
     </div>

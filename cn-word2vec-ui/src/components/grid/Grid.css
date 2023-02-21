@@ -1,0 +1,15 @@
+.container {
+    width: 90vw;
+    height: 60vw;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: red;
+}
+
+.container-flex-item {
+    display: flex;
+    background-color: blue;
+    margin: 10px 10px;
+    width: 18%;
+}
